@@ -1,0 +1,60 @@
+					Project Charter for <b><Project_Name><b>
+
+
+Project ID: <i><Project_ID><i>
+
+Start Date: <i><Start_Date><i>
+
+End Date: <i><End_Date><i>
+
+ 
+INFO
+
+Project Scope:
+This section describes the project boundaries in terms of its activities and the work to be performed. The scope should relate to the project goals and objectives, and cover all the work and only the work to be undertaken.
+
+<i><Project_Scope><i>
+
+
+
+Budget:
+This section summarizes the project's high-level budget.
+
+<i><Estimated_Cost><i>
+
+Estimated duration:
+The estimated duration required for this project us <i><Estimated_Duration><i>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SIGNING
+ 
+ 
+ 
+ 
+__________________
+<Manager_Name>
+<Manager_Contact>
+Project Manager
+ 
+ 
+ 
+ 
+ 
+__________________
+<Customer_Name>
+<Customer_Contact>
+Customer

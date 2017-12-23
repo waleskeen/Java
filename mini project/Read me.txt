@@ -1,0 +1,4 @@
+1. for testing the module2, module3, module4, module5,
+   and print the project charter, please use wbs.txt
+2. for input file, please use in same directory
+3. this file need to unzip it before execute the jar file
